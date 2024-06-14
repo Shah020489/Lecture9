@@ -1,0 +1,10 @@
+var a = "Ahmed";
+var b = 10;
+var c = true;
+var d = undefined;
+var e = null;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
